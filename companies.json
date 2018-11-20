@@ -1,0 +1,3417 @@
+[
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.abb.com",
+    "name": "ABB Schweiz AG Antriebe, Turgi / AG"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.assag.ch",
+    "name": "ASS AG Antriebstechnik, Düdingen / FR"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.baechli.com",
+    "name": "Bächli AG, Obernau / LU"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.celeroton.com",
+    "name": "Celeroton AG, Volketswil / ZH"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.cwat.ch",
+    "name": "Curtiss-Wright Antriebstechnik GmbH, Neuhausen am Rheinfall / SH"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.EES-KISSsoft.ch",
+    "name": "EES KISSsoft GmbH, Menzingen / ZG"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.flsmidthmaaggear.com",
+    "name": "FLSmidth MAAG Gear AG, Winterthur / ZH"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.gdels.com",
+    "name": "General Dynamics European Land Systems - Mowag GmbH, Kreuzlingen / TG"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.gmb-em.ch",
+    "name": "GMB Elektrische Maschinen und Anlagen AG, Regensdorf / ZH"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.gudel.com",
+    "name": "Güdel AG, Langenthal / BE"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.harmonicdrive.ch",
+    "name": "Harmonic Drive Switzerland AG, Trimbach / SO"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.humbel-gears.com",
+    "name": "Humbel Zahnräder AG, Kradolf / TG"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.inspire.ethz.ch",
+    "name": "Inspire AG, Zürich / ZH"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.kissling.swiss",
+    "name": "Kissling AG, Bachenbülach / ZH"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.klingelnberg.com",
+    "name": "Klingelnberg AG, Zürich / ZH"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.magnetdrives.ch",
+    "name": "MagnetDrives AG, Zug / ZG"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.mechmine.com",
+    "name": "mechmine LLC (Mechmine GmbH), Azmoos / SG"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.mecos.com",
+    "name": "MECOS AG, Zürich/ ZH"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.mesys.ch",
+    "name": "MESYS AG, Zürich / ZH"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.novagear.ch",
+    "name": "NOVAGEAR AG, Zürich / ZH"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.reishauer.com",
+    "name": "Reishauer AG, Wallisellen / ZH"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.renk-maag.ch",
+    "name": "RENK-MAAG GmbH, Winterthur / ZH"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.sauterbachmann.ch",
+    "name": "Sauter, Bachmann AG, Netstal / GL"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.schneeberger.com",
+    "name": "SCHNEEBERGER AG Lineartechnik, Roggwil / BE"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.schoen-ag.com",
+    "name": "Schoen AG, Schmitten / FR"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.siemens.ch",
+    "name": "Siemens Schweiz AG, Zürich / ZH"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.stadlerrail.ch",
+    "name": "Stadler Bussnang AG, Bussnang / TG"
+  },
+  {
+    "category": "Antriebstechnik",
+    "url": "http://www.zf.com",
+    "name": "ZF Services Schweiz AG, Volketswil / ZH"
+  },
+  {
+    "category": "Assembly and factory automation",
+    "url": "http://www.abb.ch",
+    "name": "ABB Schweiz AG, Baden / AG"
+  },
+  {
+    "category": "Assembly and factory automation",
+    "url": "http://www.afag.com",
+    "name": "Afag Automation AG, Huttwil / BE"
+  },
+  {
+    "category": "Assembly and factory automation",
+    "url": "http://www.balluff.ch",
+    "name": "Balluff AG, Bellmund / BE"
+  },
+  {
+    "category": "Assembly and factory automation",
+    "url": "http://www.bfa.ch",
+    "name": "bfa solutions ag, Fällanden/ ZH"
+  },
+  {
+    "category": "Assembly and factory automation",
+    "url": "http://www.festo.ch",
+    "name": "Festo AG, Lupfig / AG"
+  },
+  {
+    "category": "Assembly and factory automation",
+    "url": "http://www.gudel.com",
+    "name": "Güdel AG, Langenthal / BE"
+  },
+  {
+    "category": "Assembly and factory automation",
+    "url": "http://www.help-tec.ch",
+    "name": "HELP-TEC AUTOMATION AG, Täuffelen / BE"
+  },
+  {
+    "category": "Assembly and factory automation",
+    "url": "http://www.insys.ch",
+    "name": "INSYS Industriesysteme AG, Münsingen / BE"
+  },
+  {
+    "category": "Assembly and factory automation",
+    "url": "http://www.lca.ch",
+    "name": "LCA Automation AG, Küssnacht  / SZ"
+  },
+  {
+    "category": "Assembly and factory automation",
+    "url": "http://www.mikron.com",
+    "name": "Mikron SA Boudry, Boudry / NE"
+  },
+  {
+    "category": "Assembly and factory automation",
+    "url": "http://www.montech.ch",
+    "name": "Montech AG, Derendingen / SO"
+  },
+  {
+    "category": "Assembly and factory automation",
+    "url": "http://www.schmid-group.com",
+    "name": "montratec AG, Solothurn / SO"
+  },
+  {
+    "category": "Assembly and factory automation",
+    "url": "http://www.msw.ch",
+    "name": "msw-Winterthur, Winterthur / ZH"
+  },
+  {
+    "category": "Assembly and factory automation",
+    "url": "http://www.paro.ch",
+    "name": "Paro AG, Subingen / SO"
+  },
+  {
+    "category": "Assembly and factory automation",
+    "url": "http://www.schleuniger.com",
+    "name": "Schleuniger AG, Thun / BE"
+  },
+  {
+    "category": "Assembly and factory automation",
+    "url": "http://www.staubli.com",
+    "name": "Stäubli AG, Horgen / ZH"
+  },
+  {
+    "category": "Assembly and factory automation",
+    "url": "http://www.unitechnologies.com",
+    "name": "Unitechnologies SA, Gals / BE"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.apm-technica.com",
+    "name": "APM Technica AG, Heerbrugg / SG"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.asetronics.ch",
+    "name": "Asetronics AG, Bern / BE"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.assag.ch",
+    "name": "ASS AG Antriebstechnik, Düdingen / FR"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.autoneum.com",
+    "name": "Autoneum Management AG, Winterthur / ZH"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.baumann-federn.ch",
+    "name": "Baumann Federn AG, Ermenswil / ZH"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.benteler.de",
+    "name": "Benteler Rothrist AG, Rothrist / AG"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.ti.bfh.ch",
+    "name": "Berner Fachhochschule Technik und Informatik, Vauffelin / BE"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.bossard.com",
+    "name": "Bossard AG, Zug / ZG"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.buhlergroup.com",
+    "name": "Bühler AG, Uzwil / SG"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.bystronic.com",
+    "name": "Bystronic Maschinen AG, Thunstetten / BE"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.datwyler.com",
+    "name": "Dätwyler Schweiz AG, Schattdorf/ UR"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.empa.ch/abt504",
+    "name": "Empa Materials Science and Technology, Dübendorf / ZH"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.feintool.com",
+    "name": "Feintool System Parts Lyss AG, Lyss / BE"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.gfcs.com",
+    "name": "GF Casting Solutions AG, Schaffhausen / SH"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.gerster.ch",
+    "name": "Härterei Gerster AG, Egerkingen / SO"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.helbling.ch",
+    "name": "Helbling Technik AG, Zürich / ZH"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.hubersuhner.com",
+    "name": "Huber+Suhner AG, Werk Pfäffikon, Pfäffikon / ZH"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.insys.ch",
+    "name": "INSYS Industriesysteme AG, Münsingen / BE"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.jansen.com",
+    "name": "Jansen AG, Oberriet / SG"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.jehleag.ch",
+    "name": "Jehle Werkzeug- + Formenbau AG, Etzgen / AG"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.pfiffner.com",
+    "name": "K.R. Pfiffner AG, Utzenstorf / BE"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.komaxgroup.com",
+    "name": "Komax AG, Dierikon / LU"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.kellenberger.net",
+    "name": "L. Kellenberger & Co. AG, Biel/Bienne 8 / BE"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.mcgconsulting.de",
+    "name": "MCG Consulting Group Deutschland GmbH"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.oetiker.com",
+    "name": "Oetiker Schweiz AG Maschinen- und Apparatefabrik, Horgen / ZH"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.oskar-ruegg.ch",
+    "name": "Oskar Rüegg AG, Rapperswil-Jona / SG"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.owt.ch",
+    "name": "OWT AG, Neuhausen a. Rheinfall / SH"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.paro.ch",
+    "name": "Paro AG, Subingen / SO"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.posalux.ch",
+    "name": "Posalux SA, Bienne / BE"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.rolandberger.com",
+    "name": "Roland Berger Strategy Consultants, Zürich / ZH"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.schleuniger.com",
+    "name": "Schleuniger AG, Thun / BE"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.schoen-ag.com",
+    "name": "Schoen AG, Schmitten / FR"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.schurter.ch",
+    "name": "Schurter AG, Luzern / LU"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.steeltec.ch",
+    "name": "Steeltec AG, Emmenrücke / LU"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.stratma-int.ch",
+    "name": "StratMa International SARL, Carouge / GE"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.suhner-transmission-expert.com",
+    "name": "Suhner Transmission AG, Brugg / AG"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.suhner-transmission-expert.com",
+    "name": "Suhner Transmission AG, Brugg / AG"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.tschudin.eu",
+    "name": "TSCHUDIN AG, Grenchen / SO"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.swiss-car.ch",
+    "name": "University of Zurich, swissCAR Zürich / ZH"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.weidplas.com",
+    "name": "Weidplas GmbH / Küsnacht ZH"
+  },
+  {
+    "category": "Automotive",
+    "url": "http://www.wolfensberger.ch",
+    "name": "Wolfensberger AG, Bauma / ZH"
+  },
+  {
+    "category": "Dimensionelle Messtechnik",
+    "url": "http://www.alfa-sys.com",
+    "name": "alfa-sys ag, Ruggell / FL"
+  },
+  {
+    "category": "Dimensionelle Messtechnik",
+    "url": "http://www.fisso.com",
+    "name": "Baitella AG, Zürich / ZH"
+  },
+  {
+    "category": "Dimensionelle Messtechnik",
+    "url": "http://www.bcd-microtechnique.com",
+    "name": "BCD microtechnique SA, Préverenges / VD"
+  },
+  {
+    "category": "Dimensionelle Messtechnik",
+    "url": "http://www.erowa.com",
+    "name": "Erowa AG, Büron / LU"
+  },
+  {
+    "category": "Dimensionelle Messtechnik",
+    "url": "http://www.evoset.com",
+    "name": "Evoset AG, Steg / VS"
+  },
+  {
+    "category": "Dimensionelle Messtechnik",
+    "url": "http://www.gribimesstech.ch",
+    "name": "GRIBI Messtechnik AG, Büren an der Aare / BE"
+  },
+  {
+    "category": "Dimensionelle Messtechnik",
+    "url": "http://www.isoma.ch",
+    "name": "Isoma AG, Brügg / BE"
+  },
+  {
+    "category": "Dimensionelle Messtechnik",
+    "url": "http://www.jenoptik.com/industrial-metrology",
+    "name": "JENOPTIK Industrial Metrology Switzerland SA, Peseux / NE"
+  },
+  {
+    "category": "Dimensionelle Messtechnik",
+    "url": "http://www.kunz-precision.ch",
+    "name": "Kunz precision AG, Zofingen / AG"
+  },
+  {
+    "category": "Dimensionelle Messtechnik",
+    "url": "http://www.marcel-aubert-sa.ch",
+    "name": "Marcel Aubert SA, Nidau / BE"
+  },
+  {
+    "category": "Dimensionelle Messtechnik",
+    "url": "http://www.marposs.ch",
+    "name": "Marposs AG, Belp / BE"
+  },
+  {
+    "category": "Dimensionelle Messtechnik",
+    "url": "http://www.mtbscs.ch",
+    "name": "Mess-Technik Blatter AG, Rümligen / BE"
+  },
+  {
+    "category": "Dimensionelle Messtechnik",
+    "url": "http://www.messtechnik.li",
+    "name": "Messtechnik AG, Triesen / FL"
+  },
+  {
+    "category": "Dimensionelle Messtechnik",
+    "url": "http://www.nuessler.ch",
+    "name": "Nüssler Precision AG Koordinatenmesstechnik, Bonaduz / GR"
+  },
+  {
+    "category": "Dimensionelle Messtechnik",
+    "url": "http://www.saphirwerk.com",
+    "name": "Saphirwerk AG, Brügg b. Biel / BE"
+  },
+  {
+    "category": "Dimensionelle Messtechnik",
+    "url": "http://www.sontec.ch",
+    "name": "Sontec AG Automation und Prüftechnik, Hochdorf / LU"
+  },
+  {
+    "category": "Dimensionelle Messtechnik",
+    "url": "http://www.sylvac.ch",
+    "name": "Sylvac SA, Crissier / VD"
+  },
+  {
+    "category": "Dimensionelle Messtechnik",
+    "url": "http://www.tesagroup.com",
+    "name": "TESA SA, Renens / VD"
+  },
+  {
+    "category": "Dimensionelle Messtechnik",
+    "url": "http://www.trimos.com",
+    "name": "Trimos SA, Renens / VD"
+  },
+  {
+    "category": "Fluidtechnik",
+    "url": "http://www.bibus.ch",
+    "name": "BIBUS AG, Fehraltorf / ZH"
+  },
+  {
+    "category": "Fluidtechnik",
+    "url": "http://www.bierihydraulics.com",
+    "name": "Bieri Hydraulik AG, Köniz / BE"
+  },
+  {
+    "category": "Fluidtechnik",
+    "url": "http://www.bucherhydraulics.com",
+    "name": "Bucher Hydraulics AG, Neuheim / ZG"
+  },
+  {
+    "category": "Fluidtechnik",
+    "url": "http://www.buchermunicipal.com",
+    "name": "Bucher Municipal AG, Niederweningen / ZH"
+  },
+  {
+    "category": "Fluidtechnik",
+    "url": "http://www.cymax.ch",
+    "name": "CYMAX AG, Hinwil / ZH"
+  },
+  {
+    "category": "Fluidtechnik",
+    "url": "http://www.girmatic.ch",
+    "name": "Girmatic AG, Romanshorn / TG"
+  },
+  {
+    "category": "Fluidtechnik",
+    "url": "http://www.hagenbuch.ch",
+    "name": "Hagenbuch Hydraulic Systems AG, Ebikon / LU"
+  },
+  {
+    "category": "Fluidtechnik",
+    "url": "http://www.kubo.ch",
+    "name": "Kubo Tech AG, Effretikon / ZH"
+  },
+  {
+    "category": "Fluidtechnik",
+    "url": "http://www.pwb.ch",
+    "name": "PWB AG, Altstätten / SG"
+  },
+  {
+    "category": "Fluidtechnik",
+    "url": "http://www.wandfluh.com",
+    "name": "Wandfluh AG, Frutigen / BE"
+  },
+  {
+    "category": "Förder- und Lagertechnik",
+    "url": "http://www.lift.ch",
+    "name": "AS Aufzüge AG, Küssnacht / SZ"
+  },
+  {
+    "category": "Förder- und Lagertechnik",
+    "url": "http://www.dematic.com",
+    "name": "Dematic GmbH Niederlassung Schweiz, Urdorf / ZH"
+  },
+  {
+    "category": "Förder- und Lagertechnik",
+    "url": "http://www.flexlink.com",
+    "name": "FlexLink Switzerland GmbH, Wollerau / SZ"
+  },
+  {
+    "category": "Förder- und Lagertechnik",
+    "url": "http://www.garaventa.com",
+    "name": "Garaventa AG, Rotkreuz / ZG"
+  },
+  {
+    "category": "Förder- und Lagertechnik",
+    "url": "http://www.garaventalift.ch",
+    "name": "Garaventa Liftech AG, Küssnacht a.R. / SZ"
+  },
+  {
+    "category": "Förder- und Lagertechnik",
+    "url": "http://www.gilgen.com",
+    "name": "Gilgen Logistics AG, Oberwangen / BE"
+  },
+  {
+    "category": "Förder- und Lagertechnik",
+    "url": "http://www.gis-ag.ch",
+    "name": "GIS AG, Schötz / LU"
+  },
+  {
+    "category": "Förder- und Lagertechnik",
+    "url": "http://www.gollmann.ch",
+    "name": "Gollmann Zwick AG, Dielsdorf / ZH"
+  },
+  {
+    "category": "Förder- und Lagertechnik",
+    "url": "http://www.iwis.com",
+    "name": "iwis AG, Othmarsingen / AG"
+  },
+  {
+    "category": "Förder- und Lagertechnik",
+    "url": "http://www.demagcranes.ch",
+    "name": "Konecranes and Demag AG Dietlikon / ZH"
+  },
+  {
+    "category": "Förder- und Lagertechnik",
+    "url": "http://www.reel-alesa.com",
+    "name": "REEL Alesa AG, Zürich / ZH"
+  },
+  {
+    "category": "Förder- und Lagertechnik",
+    "url": "http://www.siemens.com",
+    "name": "Siemens Postal, Parcel & Airport Logistics AG, Zürich / ZH"
+  },
+  {
+    "category": "Förder- und Lagertechnik",
+    "url": "http://www.tgw-group.com",
+    "name": "TGW-Systems Integration AG, Rotkreuz / ZG"
+  },
+  {
+    "category": "Grafische Maschinen",
+    "url": "http://www.abb.ch",
+    "name": "ABB Schweiz AG, Baden / AG"
+  },
+  {
+    "category": "Grafische Maschinen",
+    "url": "http://www.bobst.com",
+    "name": "BOBST MEX SA, Mex / VD"
+  },
+  {
+    "category": "Grafische Maschinen",
+    "url": "http://www.durrer.com",
+    "name": "Durrer Spezialmaschinen AG, Küssnacht am Rigi / SZ"
+  },
+  {
+    "category": "Grafische Maschinen",
+    "url": "http://www.gallus-group.com",
+    "name": "Gallus Ferd. Rüesch AG, St. Gallen / SG"
+  },
+  {
+    "category": "Grafische Maschinen",
+    "url": "http://www.gietz.com",
+    "name": "Gietz AG, Gossau / SG"
+  },
+  {
+    "category": "Grafische Maschinen",
+    "url": "http://www.hannecard.com",
+    "name": "Hannecard GmbH, Rüti  / ZH"
+  },
+  {
+    "category": "Grafische Maschinen",
+    "url": "http://www.iwis.com",
+    "name": "iwis AG, Othmarsingen / AG"
+  },
+  {
+    "category": "Grafische Maschinen",
+    "url": "http://www.luescher.com",
+    "name": "Lüscher Technologies AG, Bleienbach / BE"
+  },
+  {
+    "category": "Grafische Maschinen",
+    "url": "http://www.mullermartini.com",
+    "name": "Müller Martini AG, Zofingen / AG"
+  },
+  {
+    "category": "Grafische Maschinen",
+    "url": "http://www.polytype.com",
+    "name": "Polytype S.A., Fribourg / FR"
+  },
+  {
+    "category": "Grafische Maschinen",
+    "url": "http://www.steinemann.com",
+    "name": "Steinemann Technology AG, St. Gallen / SG"
+  },
+  {
+    "category": "Grafische Maschinen",
+    "url": "http://www.swigraph.ch",
+    "name": "Swigraph AG, Bubikon / ZH"
+  },
+  {
+    "category": "Handwerkzeuge",
+    "url": "http://www.hilti.com",
+    "name": "Hilti Aktiengesellschaft, Schaan / FL"
+  },
+  {
+    "category": "Handwerkzeuge",
+    "url": "http://www.pbswisstools.com",
+    "name": "PB SWISS TOOLS GmbH, Wasen im Emmental / BE"
+  },
+  {
+    "category": "Handwerkzeuge",
+    "url": "http://www.vallorbe.com",
+    "name": "USINES METALLURGIQUES DE VALLORBE SA, Vallorbe / VD"
+  },
+  {
+    "category": "Kompressoren, Druckluft- und Vakuumtechnik",
+    "url": "http://www.elliott-turbo.com",
+    "name": "Elliott Turbomachinery SA, Lachen / SZ"
+  },
+  {
+    "category": "Kompressoren, Druckluft- und Vakuumtechnik",
+    "url": "http://www.inficon.com",
+    "name": "INFICON Aktiengesellschaft, Balzers / FL"
+  },
+  {
+    "category": "Kompressoren, Druckluft- und Vakuumtechnik",
+    "url": "http://www.man-es.com",
+    "name": "MAN Energy Solutions Schweiz AG, Zürich / ZH"
+  },
+  {
+    "category": "Kunststoffmaschinen",
+    "url": "http://www.bernexgroup.com",
+    "name": "Bernex Bimetall AG, Olten / SO"
+  },
+  {
+    "category": "Kunststoffmaschinen",
+    "url": "http://www.bfa.ch",
+    "name": "bfa solutions ag, Fällanden/ ZH"
+  },
+  {
+    "category": "Kunststoffmaschinen",
+    "url": "http://www.burckhardt.com",
+    "name": "Burckhardt of Switzerland AG, Basel / BS"
+  },
+  {
+    "category": "Kunststoffmaschinen",
+    "url": "http://www.busscorp.com",
+    "name": "Buss AG, Pratteln / BL"
+  },
+  {
+    "category": "Kunststoffmaschinen",
+    "url": "http://www.efcooling.com",
+    "name": "Ernst H. Furrer AG Industriekühlanlagen, Dällikon / ZH"
+  },
+  {
+    "category": "Kunststoffmaschinen",
+    "url": "http://www.hb-therm.ch",
+    "name": "HB-THERM AG, St. Gallen / SG"
+  },
+  {
+    "category": "Kunststoffmaschinen",
+    "url": "http://www.hydac.com",
+    "name": "HYDAC Engineering AG, Steinhausen / ZG"
+  },
+  {
+    "category": "Kunststoffmaschinen",
+    "url": "http://www.katz.ch",
+    "name": "KATZ Kunststoff Ausbildungs- und Technologie-Zentrum, Aarau / AG"
+  },
+  {
+    "category": "Kunststoffmaschinen",
+    "url": "http://www.maag.ch",
+    "name": "Maag Pump Systems AG, Oberglatt / ZH"
+  },
+  {
+    "category": "Kunststoffmaschinen",
+    "url": "http://www.mailleferextrusion.com",
+    "name": "Maillefer SA, Ecublens / VD"
+  },
+  {
+    "category": "Kunststoffmaschinen",
+    "url": "http://www.murex.ch",
+    "name": "Murex Technik AG, Wängi / TG"
+  },
+  {
+    "category": "Kunststoffmaschinen",
+    "url": "http://www.netstal.com",
+    "name": "Netstal-Maschinen AG, Näfels / GL"
+  },
+  {
+    "category": "Kunststoffmaschinen",
+    "url": "http://www.priamus.com",
+    "name": "PRIAMUS SYSTEM TECHNOLOGIES, Schaffhausen / SH"
+  },
+  {
+    "category": "Kunststoffmaschinen",
+    "url": "http://www.promix-solutions.ch",
+    "name": "Promix Solutions AG, Winterthur / ZH"
+  },
+  {
+    "category": "Kunststoffmaschinen",
+    "url": "http://www.regloplas.com",
+    "name": "Regloplas AG, St. Gallen / SG"
+  },
+  {
+    "category": "Kunststoffmaschinen",
+    "url": "http://www.roeslerag.ch",
+    "name": "Rösler Schweiz AG, Kirchleerau / AG"
+  },
+  {
+    "category": "Kunststoffmaschinen",
+    "url": "http://www.the-machines.ch",
+    "name": "THE Machines Yvonand SA, Yvonand / VD"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.apm-technica.com",
+    "name": "APM Technica AG, Heerbrugg / SG"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.axetris.com",
+    "name": "Axetris AG, Kägiswil / OW"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.bfh.ch",
+    "name": "Berner Fachhochschule, Hochschule für Technik und Architektur Burgdorf, Burgdorf"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.bloesch.ch",
+    "name": "Blösch AG Hartstoffbeschichtungszentrum, Grenchen / SO"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.bystronic.com",
+    "name": "Bystronic Laser AG, Niederönz / BE"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.cedes.com",
+    "name": "CEDES AG, Landquart / GR"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.class4laser.ch",
+    "name": "Class 4 Laser Professionals AG, Lyss / BE"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.coherent.ch",
+    "name": "COHERENT Switzerland AG, Belp / BE"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.csem.ch",
+    "name": "CSEM SA"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.metas.ch",
+    "name": "Eidgenössisches Institut für Metrologie - METAS, Bern / BE"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.empa.ch/abt504",
+    "name": "Empa Materials Science and Technology, Dübendorf / ZH"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.escatec.ch",
+    "name": "Escatec Switzerland AG, Heerbrugg / SG"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.espros.ch",
+    "name": "ESPROS Photonics AG, Sargans / SG"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.exalos.com",
+    "name": "EXALOS AG, Schlieren / ZH"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.fhnw.ch",
+    "name": "Fachhochschule Nordwestschweiz -Hochschule für Technik, Windisch / AG"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.feinwerkoptik-zuend.ch",
+    "name": "Feinwerkoptik Zünd AG, Werdenberg / SG"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.fisba.ch",
+    "name": "FISBA AG, St. Gallen / SG"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.flo-ir.ch",
+    "name": "flo-ir GmbH, Oberdorf / NW"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.gmp.ch",
+    "name": "GMP, Renens / VD"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.greenTEG.com",
+    "name": "greenTEG AG, Zürich / ZH"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.htwchur.ch",
+    "name": "Hochschule für Technik und Wirtschaft HTW Chur, Chur / GR"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.imtag.ch",
+    "name": "IMT Masken und Teilungen AG, Greifensee / ZH"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.inspire.ethz.ch",
+    "name": "Inspire AG, Zürich / ZH"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.ntb.ch",
+    "name": "Interstaatliche Hochschule für Technik Buchs NTB, Buchs / SG"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.leister.com",
+    "name": "Leister AG, Kägiswil / OW"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.mikrop.com",
+    "name": "Mikrop AG, Wittenbach / SG"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.mpsag.com",
+    "name": "MPS Micro Precision Systems AG, Biel/Bienne / BE"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.nccr-must.ch",
+    "name": "NCCR MUST ETH Zürich"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.opticsbalzers.com",
+    "name": "Optics Balzers AG, Balzers / LIE"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.optotune.com",
+    "name": "Optotune AG, Dietikon / ZH"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.ilee.ch",
+    "name": "Rheinmetall Air Defence AG, Zürich / ZH"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.rhysearch.ch",
+    "name": "RhySearch, Buchs / SG"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.safran-vectronix.com",
+    "name": "Safran Vectronix AG, Heerbrugg / SG"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.schott.com/advanced_optics",
+    "name": "SCHOTT Suisse SA, Yverdon / VD"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.spectros.ch",
+    "name": "Spectros AG Präzisionsoptik & Feinmechanik, Ettingen / BL"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.suss.ch",
+    "name": "SUSS MicroOptics SA, Hauterive / NE"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.swissoptic.com",
+    "name": "SwissOptic AG, Heerbrugg / SG"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.swissphotonics.net",
+    "name": "Swissphotonics NTN"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.synova.ch",
+    "name": "Synova S.A., Duillier / VD"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.trumpf.com",
+    "name": "TRUMPF Schweiz AG, Grüsch / GR"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.unitechnologies.com",
+    "name": "Unitechnologies SA, Gals / BE"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.kyburz-sapphire.ch",
+    "name": "Victor Kyburz AG, Safnern / BE"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.wzw.ch",
+    "name": "WZW OPTIC AG, Balgach / SG"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.xenlux.com",
+    "name": "Xenlux AG, Buochs / NW"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.zuendoptics.com",
+    "name": "Zünd Precision Optics Ltd., Diepoldsau / SG"
+  },
+  {
+    "category": "Photonics",
+    "url": "http://www.zhaw.ch",
+    "name": "Zürcher Hochschule für Angewandte Wisssenschaften, Winterthur / ZH"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.3m.com",
+    "name": "3M (Schweiz) GmbH, Rüschlikon / ZH"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.alesa.ch",
+    "name": "Alesa AG Werkzeugfabrik, Seengen / AG"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.argor-aljba.com",
+    "name": "Argor-Aljba SA, Mendrisio / TI"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.ch.bigkaiser.com",
+    "name": "Big Kaiser Präzisionswerkzeuge AG, Rümlang / ZH"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.bloesch.ch",
+    "name": "Blösch AG Hartstoffbeschichtungszentrum, Grenchen / SO"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.boeni-ag.com",
+    "name": "Böni AG, Feldbach / ZH"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.dcswiss.ch",
+    "name": "DC SWISS S.A., Valbirse / BE"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.denitool.ch",
+    "name": "DENI AG, Veltheim / AG"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.diametal.ch",
+    "name": "Diametal AG, Biel / BE"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.dixipolytool.ch",
+    "name": "Dixi Polytool SA, Le Locle / NE"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.dunner.ch",
+    "name": "DUNNER SA, Moutier / BE"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.evoset.com",
+    "name": "Evoset AG, Steg / VS"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.extramet.ch",
+    "name": "Extramet AG, Plaffeien / FR"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.flurytools.ch",
+    "name": "Flury Tools AG, Arch / BE"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.fraisa.com",
+    "name": "Fraisa SA, Bellach / SO"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.gloorag.ch",
+    "name": "Friedrich Gloor AG, Lengnau / BE"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.habegger-sa.com",
+    "name": "Harold Habegger S.A., Court / BE"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.heule.com",
+    "name": "HEULE WERKZEUG AG, Balgach / SG"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.ifanger.com",
+    "name": "Ifanger AG, Uster / ZH"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.ionbond.com",
+    "name": "IHI Ionbond AG, Olten / SO"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.kometgroup.com",
+    "name": "KOMET Schweiz AG, Oensingen / SO"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.lamina-tech.ch",
+    "name": "Lamina Technologies SA, Yverdon-les-Bains / VD"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.marwa-tools.ch",
+    "name": "MARWA TOOLS AG, Rümlang / ZH"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.meister-abrasives.com",
+    "name": "Meister Abrasives AG, Andelfingen / ZH"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.mikron.com",
+    "name": "Mikron Tool SA Agno, Agno / TI"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.oerlikon.com",
+    "name": "Oerlikon Balzers Coating AG, Balzers / FL"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.oertli.ch",
+    "name": "OERTLI Werkzeuge AG, Höri / ZH"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.pcm.ch",
+    "name": "P.C.M. Willen S.A., Villeneuve / VD"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.profin.ch",
+    "name": "PROFIN Progressive Finish AG, Luzern / LU"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.re-al.ch",
+    "name": "RE-AL AG, Biel / BE"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.rego-fix.ch",
+    "name": "REGO-FIX AG, Tenniken / BL"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.schaublin.ch",
+    "name": "SCHAUBLIN SA Fabrique d'outillages, Delémont / JU"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.secotools.com",
+    "name": "Seco Tools AG, Nidau / BE"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.sia-abrasives.com",
+    "name": "sia Abrasives Industries AG, Frauenfeld / TG"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.sphinx-tools.ch",
+    "name": "Sphinx Werkzeuge AG, Derendingen / SO"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.tecnopinz.ch",
+    "name": "Tecnopinz SA, Mezzovico / TI"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.triag.com",
+    "name": "Triag AG, Baar / ZG"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.triag-int.ch",
+    "name": "TRIAG International AG, Hünenberg / ZG"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://tusa-precision.ch",
+    "name": "TUSA PRECISION TOOLS SA, Mezzovico / TI"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.urma.ch",
+    "name": "Urma AG Werkzeugfabrik, Rupperswil / AG"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.utilis.com",
+    "name": "Utilis AG, Müllheim / TG"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.wawowerkzeuge.ch",
+    "name": "WAWO Werkzeuge GmbH, Oberriet / SG"
+  },
+  {
+    "category": "Präzisionswerkzeuge",
+    "url": "http://www.wintool.com",
+    "name": "WinTool AG, Zürich / ZH"
+  },
+  {
+    "category": "Pumpentechnik",
+    "url": "http://www.pumpen-3s.ch",
+    "name": "3S Systemtechnik AG, Remigen / AG"
+  },
+  {
+    "category": "Pumpentechnik",
+    "url": "http://www.biral.ch",
+    "name": "Biral AG, Münsingen / BE"
+  },
+  {
+    "category": "Pumpentechnik",
+    "url": "http://www.calder.ch",
+    "name": "Calder GmbH, Egliswil / AG"
+  },
+  {
+    "category": "Pumpentechnik",
+    "url": "http://www.heusser.ch",
+    "name": "Carl Heusser AG, Cham / ZG"
+  },
+  {
+    "category": "Pumpentechnik",
+    "url": "http://www.cp-pumps.com",
+    "name": "CP Pumpen AG, Zofingen / AG"
+  },
+  {
+    "category": "Pumpentechnik",
+    "url": "http://www.eggerpumps.com",
+    "name": "Emile Egger & Cie. SA, Cressier / NE"
+  },
+  {
+    "category": "Pumpentechnik",
+    "url": "http://www.sterlingsihi.com",
+    "name": "Flowserve SIHI (Schweiz) GmbH, Schaffhausen / SH"
+  },
+  {
+    "category": "Pumpentechnik",
+    "url": "http://www.sterlingsihi.com",
+    "name": "Flowserve SIHI (Schweiz) GmbH, Schaffhausen / SH"
+  },
+  {
+    "category": "Pumpentechnik",
+    "url": "http://www.grundfos.ch",
+    "name": "GRUNDFOS PUMPEN AG, Fällanden / ZH"
+  },
+  {
+    "category": "Pumpentechnik",
+    "url": "http://www.gysi-pumpen.ch",
+    "name": "Gysi Pumpen AG, Farvagny / FR"
+  },
+  {
+    "category": "Pumpentechnik",
+    "url": "http://www.haeny.com",
+    "name": "Häny AG, Rapperswil-Jona / SG"
+  },
+  {
+    "category": "Pumpentechnik",
+    "url": "http://www.hidrostal.ch",
+    "name": "Hidrostal AG, Neunkirch / SH"
+  },
+  {
+    "category": "Pumpentechnik",
+    "url": "http://www.hydrowatt.com",
+    "name": "HYDROWATT AG, Schaffhausen / SH"
+  },
+  {
+    "category": "Pumpentechnik",
+    "url": "http://www.ksbgroup.ch",
+    "name": "KSB (Schweiz) AG, Zürich / ZH"
+  },
+  {
+    "category": "Pumpentechnik",
+    "url": "http://www.maag.ch",
+    "name": "Maag Pump Systems AG, Oberglatt / ZH"
+  },
+  {
+    "category": "Pumpentechnik",
+    "url": "http://www.grupperutschi.com",
+    "name": "Rütschi Fluid AG, Brugg / AG"
+  },
+  {
+    "category": "Pumpentechnik",
+    "url": "http://www.sawa.ch",
+    "name": "SAWA Pumpentechnik AG, Degersheim / SG"
+  },
+  {
+    "category": "Pumpentechnik",
+    "url": "http://www.schubag.ch",
+    "name": "schubag AG, Felben-Wellhausen / TG"
+  },
+  {
+    "category": "Pumpentechnik",
+    "url": "http://www.sulzer.com",
+    "name": "Sulzer Management AG, Winterthur / ZH"
+  },
+  {
+    "category": "Pumpentechnik",
+    "url": "http://www.moserag.ch",
+    "name": "W. Moser AG, Wintertur / ZH"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.3dprecision.ch",
+    "name": "3D PRECISION SA, Delémont / JU"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.apco-technologies.com",
+    "name": "Apco Technologies SA, Aigle / VD"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.art-of-technology.ch",
+    "name": "Art of Technology AG, Zürich / ZH"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.bloesch.ch",
+    "name": "Blösch AG Hartstoffbeschichtungszentrum, Grenchen / SO"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.clemessy.ch",
+    "name": "Clemessy (Switzerland) AG, Basel / BS"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.cosylab.com",
+    "name": "Cosylab Switzerland GmbH, Villigen / AG"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.csem.ch",
+    "name": "CSEM Centre Suisse d'Electronique et de Microtechnique SA, Neuchâtel / NE"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.estech.ch",
+    "name": "FAES-PWR ESTECH AG / Rüti ZH"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.fisba.ch",
+    "name": "FISBA AG, St. Gallen / SG"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.industech.ch",
+    "name": "Franke Industrie AG, Aarburg / AG"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.gfprecicast.com",
+    "name": "GF Precicast S.A., Novazzano / TI"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.icotec-medical.com",
+    "name": "icotec AG, Altstätten / SG"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.magentasys.com",
+    "name": "MAGENTASYS Sàrl, Genolier / VD"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.nanotronic.ch",
+    "name": "nanoTRONIC GmbH, Lyss / BE"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.spectratime.com",
+    "name": "Orolia Switzerland SA, Neuchâtel / NE"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.ruag.com/space",
+    "name": "RUAG Schweiz AG, RUAG Space, Zürich / ZH"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.ruag.com/space",
+    "name": "RUAG Schweiz AG, RUAG Space, Zürich / ZH"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.ruag.com",
+    "name": "RUAG Slip Rings SA, Nyon / VD"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.saphyrion.ch",
+    "name": "SAPHYRION Sagl, Bioggio / TI"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.schurter.ch",
+    "name": "Schurter AG, Luzern / LU"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.shirokuma-gmbh.ch",
+    "name": "shirokuma GmbH, Wetzikon / ZH"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.swissto12.ch",
+    "name": "Swissto12 S.A., Ecublens / VD"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.syderal.ch",
+    "name": "SYDERAL SA, Gals / BE"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.synopta.ch/",
+    "name": "Synopta GmbH, Eggersriet / SG"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.viasat.com",
+    "name": "ViaSat Antenna Systems SA, Lausanne / VD"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.weka-ag.ch",
+    "name": "WEKA AG, Bäretswil / ZH"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "fileadmin/user_upload/Swissmem/Z_Archiv-Dateien/7Newsanhaenge/Broschuere_D-low.zip",
+    "name": "Broschüre «Raumfahrt in der Schweiz»"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.sbfi.admin.ch/themen/01371/index.html?lang=de",
+    "name": "Staatssekretariat für Bildung und Forschung, Bereich Raumfahrt"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.esa.int/esaCP/index.html",
+    "name": "Europäische Weltraumorganisation"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.esa.int/esaCP/Switzerland_ge.html",
+    "name": "Europäische Weltraumorganisation Fokus Schweiz"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.space.unibe.ch/",
+    "name": "Universität Bern, Space Research & Planetary Sciences Research Division"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.issibern.ch/index.html",
+    "name": "ISSI (International Space Science Institute)"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://www.issibern.ch/associationproissi/purpose.html",
+    "name": "Verein Pro-ISSI"
+  },
+  {
+    "category": "Raumfahrttechnik",
+    "url": "http://space.epfl.ch/",
+    "name": "Space Center EPF Lausanne"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.binzel-abicor.com",
+    "name": "Alexander Binzel Schweisstechnik GmbH & Co., Grenchen / SO"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.autogen-endress.ch",
+    "name": "Autogen Endress AG, Samstagern / ZH"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.schmid-schweissen.ch",
+    "name": "B. Schmid Co AG, Baden-Dättwil / AG"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.carbagas.ch",
+    "name": "CARBAGAS AG, Gümligen / BE"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.esab.ch",
+    "name": "ESAB Europe GmbH, Baar / ZG"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.fronius.com",
+    "name": "FRONIUS Schweiz AG, Rümlang / ZH"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.gloor.ch",
+    "name": "Gebr. Gloor AG, Burgdorf / BE"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.hlag.ch",
+    "name": "H. Lüdi + Co AG, Regensdorf / ZH"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.ksrsoudage.ch",
+    "name": "KSR SA, Yverdon-les-Bains / VD"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.listec.ch",
+    "name": "LISTEC Schweisstechnik AG, Rheineck / SG"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.lwbweldtech.ch",
+    "name": "LWB WeldTech AG, Wünnewil / FR"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.max-mueller-horgen.ch",
+    "name": "Max Müller Schweisstechnik, Pfäffikon / SZ"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.messer-castolin.ch",
+    "name": "Messer Eutectic Castolin Switzerland SA, Dällikon / ZH"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.messer.ch",
+    "name": "Messer Schweiz AG, Lenzburg / AG"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.messer.ch",
+    "name": "Messer Schweiz AG, Lenzburg / AG"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.oerlikon-soudure.ch",
+    "name": "Oerlikon-Schweisstechnik AG, Niederhasli / ZH"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.optrel.com",
+    "name": "Optrel AG, Wattwil / SG"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.svs.ch",
+    "name": "Schweizerischer Verein für Schweisstechnik, Basel / BS"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.sechy.ch",
+    "name": "Séchy Schweisstechnik AG, Nänikon / ZH"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.boehlerweldinggroup.ch",
+    "name": "voestalpine Böhler Welding Schweiz AG, Wallisellen / ZH"
+  },
+  {
+    "category": "Schweiss- und Schneidtechnik",
+    "url": "http://www.westfalen.com",
+    "name": "Westfalen Gas Schweiz GmbH, Eiken / AG"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.3dprecision.ch",
+    "name": "3D PRECISION SA, Delémont / JU"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://new.abb.com/turbocharging",
+    "name": "ABB Turbo Systems AG, Baden / AG"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.admantec.com",
+    "name": "admantec ag, Altstätten / SG"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.afag.com",
+    "name": "Afag Automation AG, Huttwil / BE"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.gfms.com/ch",
+    "name": "Agie Charmilles New Technologies SA, Satigny / GE"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.amkyburz.ch",
+    "name": "AM Kyburz AG, Wettswil a.A. / ZH"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.autoneum.com",
+    "name": "Autoneum Management AG, Winterthur / ZH"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.burckhardtcompression.com",
+    "name": "Burckhardt Compression AG, Winterthur / ZH"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.ecoparts.ch",
+    "name": "ECOPARTS AG, Rüti / ZH"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.fhnw.ch",
+    "name": "Fachhochschule Nordwestschweiz -Hochschule für Technik, Windisch / AG"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.ferrum.net",
+    "name": "Ferrum AG, Schafisheim / AG"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.industech.ch",
+    "name": "Franke Industrie AG, Aarburg / AG"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.studer.com",
+    "name": "Fritz Studer AG, Steffisburg / BE"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.geberit.com",
+    "name": "Geberit International AG, Rapperswil-Jona / SG"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.ge.com",
+    "name": "General Electric (Switzerland) GmbH, Baden / AG"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.heberlein.com",
+    "name": "Heberlein AG, Wattwil / SG"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.hilti.com",
+    "name": "Hilti Aktiengesellschaft, Schaan / FL"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.hsr.ch",
+    "name": "HSR Hochschule für Technik, Rapperswil SG / SG"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.imbach.com",
+    "name": "Imbach + Cie. AG, Nebikon / LU"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.inspire.ethz.ch",
+    "name": "Inspire AG, St. Gallen / SG"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.irpd.ch",
+    "name": "Irpd AG, St. Gallen / SG"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.iwf.mavt.ethz.ch/",
+    "name": "IWF-ETH, Zürich ETH-Zentrum / ZH"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.laube.ch",
+    "name": "Laube + Co. AG Apparatebau, Mellikon / AG"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.man-es.com",
+    "name": "MAN Energy Solutions Schweiz AG, Zürich / ZH"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.oerlikon.com",
+    "name": "OC Oerlikon Management AG, Päffikon, Pfäffikon SZ / SZ"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.pangas.ch",
+    "name": "PanGas AG, Dagmersellen / LU"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.plumettaz.com",
+    "name": "Plumettaz SA, Bex / VD"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.prodartis.ch",
+    "name": "prodartis AG, Appenzell/AI"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.protoshape.ch",
+    "name": "ProtoShape GmbH, Nidau-Biel / BE"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.pwb.ch",
+    "name": "PWB AG, Altstätten / SG"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.ruag.com/space",
+    "name": "RUAG Schweiz AG, RUAG Space, Zürich / ZH"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.schindler.com",
+    "name": "Schindler Management AG, Ebikon / LU"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.snv.ch",
+    "name": "Schweizerische Normen-Vereinigung (SNV), Winterthur / ZH"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.svs.ch",
+    "name": "Schweizerischer Verein für Schweisstechnik, Basel / BS"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.siemens.ch",
+    "name": "Siemens Schweiz AG, Zürich / ZH"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.supsi.ch",
+    "name": "SUPSI (University of Applied Sciences of Southern Switzerland, Manno/TI"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.swiss3dtec.ch",
+    "name": "Swiss 3D Tec AG, Wollerau / SZ"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.trumpf.com",
+    "name": "TRUMPF Schweiz AG, Grüsch / GR"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.grinding.ch",
+    "name": "United Grinding Group Management AG, Bern / BE"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.wintool.com",
+    "name": "WinTool AG, Zürich / ZH"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.wolfensberger.ch",
+    "name": "Wolfensberger AG, Bauma / ZH"
+  },
+  {
+    "category": "Swiss Additive Manufacturing Group",
+    "url": "http://www.zpp.zhwin.ch",
+    "name": "Zürcher Hochschule für Angewandte Wissenschaften, Winterthur / ZH"
+  },
+  {
+    "category": "Swiss Airport Suppliers",
+    "url": "http://www.aebi-schmidt.com",
+    "name": "Aebi & Co. AG, Maschinenfabrik, Hochdorf LU / LU"
+  },
+  {
+    "category": "Swiss Airport Suppliers",
+    "url": "http://www.cabling.datwyler.com",
+    "name": "Dätwyler Cabling Solutions AG, Altdorf / UR"
+  },
+  {
+    "category": "Swiss Airport Suppliers",
+    "url": "http://www.europoles.com",
+    "name": "Europoles Suisse GmbH, Mollis / GL"
+  },
+  {
+    "category": "Swiss Airport Suppliers",
+    "url": "http://www.zurich-airport.com",
+    "name": "Flughafen Zürich AG, Zürich / ZH"
+  },
+  {
+    "category": "Swiss Airport Suppliers",
+    "url": "http://www.spezialleuchten.ch",
+    "name": "Hugentobler Spezialleuchten AG, Weinfelden  / TG"
+  },
+  {
+    "category": "Swiss Airport Suppliers",
+    "url": "http://www.istinox.ch",
+    "name": "IST-Edelstahl-Anlagenbau AG, Thun / BE"
+  },
+  {
+    "category": "Swiss Airport Suppliers",
+    "url": "http://www.t-link.ch",
+    "name": "T-Link Management AG - Division Novafair, Bassersdorf / ZH"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.aegerterag.ch",
+    "name": "Aegerter Swiss Technology AG, Heimberg / BE"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.aerogroup.ch",
+    "name": "Aero Group SA, La Chaux-de-Fonds / NE"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.allega.ch",
+    "name": "Allega GmbH, Niederglatt / ZH"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.alme.ch",
+    "name": "ALME perfect precision , Aadorf / TG"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.apco-technologies.com",
+    "name": "Apco Technologies SA, Aigle / VD"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.berhalter.com",
+    "name": "Berhalter AG, Widnau / SG"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.casram.com",
+    "name": "Casram SA, Mezzovico-Vira / TI"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.clemessy.ch",
+    "name": "Clemessy (Switzerland) AG, Basel / BS"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.crypto.ch",
+    "name": "Crypto Schweiz AG, Steinhausen / ZG"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.csem.ch",
+    "name": "CSEM Centre Suisse d'Electronique et de Microtechnique SA, Neuchâtel / NE"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.cwat.ch",
+    "name": "Curtiss-Wright Antriebstechnik GmbH, Neuhausen am Rheinfall / SH"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.desapro.com",
+    "name": "Desapro AG, Thayngen / SH"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.elma.ch",
+    "name": "Elma Electronic AG, Wetzikon / ZH"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.estech.ch",
+    "name": "FAES-PWR ESTECH AG / Rüti ZH"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.fisba.ch",
+    "name": "FISBA AG, St. Gallen / SG"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.industech.ch",
+    "name": "Franke Industrie AG, Aarburg / AG"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.gdels.com",
+    "name": "General Dynamics European Land Systems - Mowag GmbH, Kreuzlingen / TG"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.gfms.com",
+    "name": "GF Machining Solutions Management SA, Satigny / GE"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.gfprecicast.com",
+    "name": "GF Precicast S.A., Novazzano / TI"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.hubersuhner.com",
+    "name": "Huber+Suhner AG, Werk Pfäffikon, Pfäffikon / ZH"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.icotec-medical.com",
+    "name": "icotec AG, Altstätten / SG"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.interfast.ch",
+    "name": "Interfast / Zug"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.jean-gallay.ch",
+    "name": "Jean Gallay SA, Plan-les-Ouates / GE"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.bimetal.ch",
+    "name": "Kugler Bimetal SA, Vernier / GE"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.listemann.com",
+    "name": "Listemann AG, Winterthur / ZH"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.magentasys.com",
+    "name": "MAGENTASYS Sàrl, Genolier / VD"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.mecaplex.ch",
+    "name": "Mecaplex AG, Grenchen / SO"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.meggittsensingsystems.com",
+    "name": "Meggitt SA, Fribourg / FR"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.ces-swap.com",
+    "name": "Mercury Mission Systems International SA. / GE"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.meteolabor.ch",
+    "name": "Meteolabor AG, Wetzikon / ZH"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.tudor-tech.ch",
+    "name": "MIRCEA TUDOR SCAN TECH SA, Saint-Imier / BE"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.nobag.com",
+    "name": "NOBAG Nobs Engineering AG, Uetendorf / BE"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.suhner.com",
+    "name": "Otto Suhner Aktiengesellschaft, Brugg / AG"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.rheinmetall-defence.com",
+    "name": "Rheinmetall Air Defence AG, Zürich / ZH"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.rheinmetall-tp.com",
+    "name": "Rheinmetall Technical Publications Schweiz AG, Zürich / ZH"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.roschi.rohde-schwarz.com",
+    "name": "Roschi Rohde & Schwarz AG, Ittigen / BE"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.ruag.com",
+    "name": "RUAG Ammotec AG, Thun / BE"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.ruag.com",
+    "name": "RUAG Schweiz AG, Div. Aviation, Emmen / LU"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.ruag.com/de/Defence/Defence_Home",
+    "name": "RUAG Schweiz AG, RUAG Defence, Bern / BE"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.rwmschweiz.ch",
+    "name": "RWM Schweiz AG, Zürich / ZH"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.saabgroup.com",
+    "name": "Saab Bofors Dynamics Switzerland Ltd, Thun / BE"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.safran-vectronix.com",
+    "name": "Safran Vectronix AG, Heerbrugg / SG"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.stjaero.com",
+    "name": "Saint Jean Aero (Suisse) SA, Plan-les-Ouates / GE"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.swissarms.ch",
+    "name": "SAN Swiss Arms AG, Neuhausen am Rheinfall / SH"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.sauterbachmann.ch",
+    "name": "Sauter, Bachmann AG, Netstal / GL"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.securiton.ch",
+    "name": "Securiton AG, Zollikofen / BE"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.sntechnologies.com",
+    "name": "SN TECHNOLOGIES SA, Satigny / GE"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.ssz-camouflage.ch",
+    "name": "SSZ Camouflage Technology AG, Zug / ZG"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.starrag.com",
+    "name": "Starrag AG, Rorschacherberg / SG"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.sysa.ch",
+    "name": "Systems Assembling SA, Boudry / NE"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.thalesgroup.com",
+    "name": "Thales Suisse SA, Zürich / ZH"
+  },
+  {
+    "category": "Swiss ASD",
+    "url": "http://www.viasat.com",
+    "name": "ViaSat Antenna Systems SA, Lausanne / VD"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.agm-jactex.ch",
+    "name": "AGM Jactex AG, Neuhausen am Rheinfall / SH"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.amslertex.com",
+    "name": "Amsler Tex AG, Aesch / ZH"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.autefa.com",
+    "name": "AUTEFA Solutions Switzerland AG, Frauenfeld / TG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.becatron.ch",
+    "name": "Becatron AG, Müllheim / TG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.benningergroup.com",
+    "name": "Benninger AG, Uzwil / SG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.bracker.ch",
+    "name": "Bräcker AG, Pfäffikon / ZH"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.steinemann-cvs.ch",
+    "name": "ConVacc AG, Flawil/SG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.crealet.com",
+    "name": "Crealet AG, Eschenbach SG / SG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.dropchemicals.com",
+    "name": "Drop Chemicals SA, Stabio / TI"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://hunziker.info",
+    "name": "G. Hunziker AG, Eschenbach / SG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.loepfe.com",
+    "name": "Gebrüder Loepfe AG, Wetzikon / ZH"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.texmaag.ch",
+    "name": "Gebrüder Maag, Maschinenfabrik AG, Küsnacht / ZH"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.graf-companies.com",
+    "name": "Graf + Cie AG, Rapperswil-Jona / SG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.hannecard.com",
+    "name": "Hannecard GmbH, Rüti  / ZH"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.heberlein.com",
+    "name": "Heberlein AG, Wattwil / SG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.maurer-sa.ch",
+    "name": "Ing. A. Maurer SA, Ittigen / BE"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.itemagroup.com",
+    "name": "ITEMA (Switzerland) Ltd., Wilen / SZ"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.mueller-frick.com",
+    "name": "Jakob Müller AG Frick, Frick / AG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.karlmayer.ch",
+    "name": "Karl Mayer Textilmaschinen AG, Oberbüren / SG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.laesser.ch",
+    "name": "Lässer AG, Diepoldsau / SG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.luwa.com",
+    "name": "Luwa Air Engineering AG, Uster / ZH"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.norsel.com",
+    "name": "Norsel Textil Maschinen AG, Kreuzlingen / TG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.polytex.ch",
+    "name": "Polytex AG, Schönenwerd / SO"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.prolim.ch",
+    "name": "prolim engineering GmbH, Küsnacht / ZH"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.retech.ch",
+    "name": "Retech Aktiengesellschaft, Meisterschwanden / AG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.rieter.com",
+    "name": "Rieter Management AG, Winterthur / ZH"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.oe-rotorcraft.com",
+    "name": "Rotorcraft AG, Altstätten SG / SG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.rutitextil.ch",
+    "name": "Rüti Textil GmbH, Rüti / ZH"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.santexrimar.com",
+    "name": "Santex Rimar AG, Tobel-Tägerschen / TG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.saurer.com",
+    "name": "SAURER AG, Wattwil / SG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.saurer.com",
+    "name": "SAURER AG, Zweigniederlassung Arbon, Arbon / TG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.saurer.com",
+    "name": "Saurer Industries AG, Arbon / TG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.ssm.ch",
+    "name": "SSM Schärer Schweiter Mettler AG, Horgen / ZH"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.staubli.com",
+    "name": "Stäubli Sargans AG, Sargans / SG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.steiger-textil.ch",
+    "name": "Steiger Participations SA, Vionnaz / VS"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.perfecta.ch",
+    "name": "Triopan AG Abt.  Perfecta Schmid Textilmaschinen, Rorschach / SG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.truetzschler.com",
+    "name": "Trützschler Switzerland AG, Winterthur / ZH"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.uster.com",
+    "name": "Uster Technologies AG, Uster / ZH"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.vitonotodesign.com",
+    "name": "Vito Noto Industrial Design, Cadro / TI"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.mathisag.com",
+    "name": "Werner Mathis AG, Niederhasli / ZH"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.willy-grob.ch",
+    "name": "Willy Grob AG, Eschenbach / SG"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.xetma.com",
+    "name": "Xetma Vollenweider AG, Horgen / ZH"
+  },
+  {
+    "category": "Textilmaschinen",
+    "url": "http://www.zetadatatec.com",
+    "name": "ZETA DATATEC GmbH, Neuhausen a.R. / SH"
+  },
+  {
+    "category": "Transmission und Distribution",
+    "url": "http://www.abb.com",
+    "name": "ABB Schweiz AG, Baden / AG"
+  },
+  {
+    "category": "Transmission und Distribution",
+    "url": "http://www.gegridsolutions.com",
+    "name": "GE Grid (Switzerland) AG, Oberentfelden / AG"
+  },
+  {
+    "category": "Transmission und Distribution",
+    "url": "http://www.raustoc.ch",
+    "name": "Rauscher & Stoecklin AG, Sissach / BL"
+  },
+  {
+    "category": "Transmission und Distribution",
+    "url": "http://www.schneider-electric.com",
+    "name": "Schneider Electric (Schweiz) AG, Ittigen / BE"
+  },
+  {
+    "category": "Transmission und Distribution",
+    "url": "http://www.siemens.ch",
+    "name": "Siemens Schweiz AG, Zürich / ZH"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.alfalaval.com",
+    "name": "Alfa Laval Mid Europe AG, Dietlikon / ZH"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.alphawt.ch",
+    "name": "ALPHA WasserTechnik AG, Nidau / BE"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.chestonag.ch",
+    "name": "Chestonag Automation AG, Seengen / AG"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.ctu.ch",
+    "name": "CTU Clean Technology Universe AG, Winterthur / ZH"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.degremont-technologies.com",
+    "name": "Degrémont Technologies Ltd, Dübendorf / ZH"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.eggerpumps.com",
+    "name": "Emile Egger & Cie. SA, Cressier / NE"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.hz-inova.com",
+    "name": "Hitachi Zosen Inova AG, Zürich / ZH"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.js-umwelttechnik.ch",
+    "name": "JS Umwelttechnik AG, Hottwil / AG"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.mbe.ch",
+    "name": "MBE AG, Wetzikon / ZH"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.mecana.com",
+    "name": "Mecana Umwelttechnik GmbH, Reichenburg / SZ"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.neosys.ch",
+    "name": "Neosys AG, Gerlafingen / SO"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.panaqua.ch",
+    "name": "Panaqua AG, Adligenswil / LU"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.picatech.ch",
+    "name": "Picatech Huber AG, Horw / LU"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.powercondens.ch",
+    "name": "POWERcondens AG, Zizers / GR"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.ramboll.ch",
+    "name": "Ramboll AG, Zürich / ZH"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.rheno.ch",
+    "name": "Rheno Umwelttechnik AG, Schlieren / ZH"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.roshard.ch",
+    "name": "Roshard AG, Wangen-Brüttisellen / ZH"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.syngas.ch",
+    "name": "SYNGAS Swiss AG, Münchenstein / BL"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.techfina.ch",
+    "name": "Techfina SA, Petit-Lancy / GE"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://wabag-wassertechnik.ch",
+    "name": "WABAG Wassertechnik AG, Winterthur / ZH"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.wilo.ch",
+    "name": "WILO Schweiz AG, Rheinfelden / AG"
+  },
+  {
+    "category": "Umwelttechnik",
+    "url": "http://www.wilo.ch",
+    "name": "WILO Schweiz AG, Rheinfelden / AG"
+  },
+  {
+    "category": "Verbrennungsmaschinen",
+    "url": "http://new.abb.com/turbocharging",
+    "name": "ABB Turbo Systems AG, Baden / AG"
+  },
+  {
+    "category": "Verbrennungsmaschinen",
+    "url": "http://www.antrova.com",
+    "name": "Antrova AG, Stein am Rhein / SH"
+  },
+  {
+    "category": "Verbrennungsmaschinen",
+    "url": "http://www.duap.ch",
+    "name": "DUAP AG, Herzogenbuchsee / BE"
+  },
+  {
+    "category": "Verbrennungsmaschinen",
+    "url": "http://www.fptindustrial.com",
+    "name": "FPT Motorenforschung AG, Arbon / TG"
+  },
+  {
+    "category": "Verbrennungsmaschinen",
+    "url": "http://www.kistler.com",
+    "name": "Kistler Instrumente AG / Messtechnik, Regeltechnik, Winterthur / ZH"
+  },
+  {
+    "category": "Verbrennungsmaschinen",
+    "url": "http://www.motorex.com",
+    "name": "MOTOREX AG Langenthal Schmiertechnik, Langenthal / BE"
+  },
+  {
+    "category": "Verbrennungsmaschinen",
+    "url": "http://www.novaswiss.com",
+    "name": "Nova Werke AG, Effretikon / ZH"
+  },
+  {
+    "category": "Verbrennungsmaschinen",
+    "url": "http://www.shiptec.ch",
+    "name": "Shiptec AG, Luzern / LU"
+  },
+  {
+    "category": "Verbrennungsmaschinen",
+    "url": "http://www.turbomach.com",
+    "name": "Solar Turbines Switzerland SAGL, Locarno / TI"
+  },
+  {
+    "category": "Verbrennungsmaschinen",
+    "url": "http://www.tesis.ch",
+    "name": "Tesis Consulting GmbH, Volketswil / ZH"
+  },
+  {
+    "category": "Verbrennungsmaschinen",
+    "url": "http://www.trafag.com",
+    "name": "Trafag AG, Bubikon / ZH"
+  },
+  {
+    "category": "Verbrennungsmaschinen",
+    "url": "http://www.ut99.ch",
+    "name": "UT 99 AG, Andelfingen / ZH"
+  },
+  {
+    "category": "Verbrennungsmaschinen",
+    "url": "http://www.wingd.com",
+    "name": "Winterthur Gas & Diesel AG, Winterthur"
+  },
+  {
+    "category": "Verfahrenstechnischer Maschinen- und Apparatebau",
+    "url": "http://www.bucherunipektin.com",
+    "name": "Bucher Unipektin AG, Niederweningen / ZH"
+  },
+  {
+    "category": "Verfahrenstechnischer Maschinen- und Apparatebau",
+    "url": "http://www.buhlergroup.com",
+    "name": "Bühler AG, Uzwil / SG"
+  },
+  {
+    "category": "Verfahrenstechnischer Maschinen- und Apparatebau",
+    "url": "http://www.ferrum.net",
+    "name": "Ferrum AG, Rupperswil / AG"
+  },
+  {
+    "category": "Verfahrenstechnischer Maschinen- und Apparatebau",
+    "url": "http://www.frymaKoruma.com",
+    "name": "FrymaKoruma AG, Rheinfelden / AG"
+  },
+  {
+    "category": "Verfahrenstechnischer Maschinen- und Apparatebau",
+    "url": "http://www.gericke.net",
+    "name": "Gericke AG, Regensdorf / ZH"
+  },
+  {
+    "category": "Verfahrenstechnischer Maschinen- und Apparatebau",
+    "url": "http://www.habluetzel.ch",
+    "name": "Hablützel AG, Wilchingen / SH"
+  },
+  {
+    "category": "Verfahrenstechnischer Maschinen- und Apparatebau",
+    "url": "http://www.istinox.ch",
+    "name": "IST-Edelstahl-Anlagenbau AG, Thun / BE"
+  },
+  {
+    "category": "Verfahrenstechnischer Maschinen- und Apparatebau",
+    "url": "http://www.kasag.com",
+    "name": "KASAG Swiss AG, Langnau im Emmental / BE"
+  },
+  {
+    "category": "Verfahrenstechnischer Maschinen- und Apparatebau",
+    "url": "http://www.mmsx.com",
+    "name": "MMS AG, Urdorf / ZH"
+  },
+  {
+    "category": "Verfahrenstechnischer Maschinen- und Apparatebau",
+    "url": "http://www.obrecht-ag.com",
+    "name": "Obrecht AG Rohrleitungsbau, Apparatebau, Felsenau / AG"
+  },
+  {
+    "category": "Verfahrenstechnischer Maschinen- und Apparatebau",
+    "url": "http://www.rondo-online.com",
+    "name": "RONDO Burgdorf AG, Burgdorf / BE"
+  },
+  {
+    "category": "Verfahrenstechnischer Maschinen- und Apparatebau",
+    "url": "http://www.spetech.ch/de",
+    "name": "SPE Tech AG, Frauenkappelen / BE"
+  },
+  {
+    "category": "Verfahrenstechnischer Maschinen- und Apparatebau",
+    "url": "http://www.sulzer.com/en/About-us/Our-Businesses/Chemtech",
+    "name": "Sulzer Chemtech AG, Winterthur / ZH"
+  },
+  {
+    "category": "Verfahrenstechnischer Maschinen- und Apparatebau",
+    "url": "http://www.wafagag.ch",
+    "name": "Wafag Anlagen- und Apparatebau AG, Flawil / SG"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://www.alupak.com",
+    "name": "Alupak AG, Belp / BE"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://www.verpatec.ch",
+    "name": "AVT Verpatec AG, Hombrechtikon / ZH"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://www.ball.com",
+    "name": "Ball Beverage Packaging Widnau GmbH, Widnau / SG"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://www.berhalter.com",
+    "name": "Berhalter AG, Widnau / SG"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://www.boschpackaging.com",
+    "name": "Bosch Packaging Systems AG, Beringen / SH"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://sealing.datwyler.com/industry-solutions/automotive.html",
+    "name": "Dätwyler Sealing Solutions International AG, Schattdorf / UR"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://www.dividella.ch",
+    "name": "Dividella AG, Grabs / SG"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://www.falu.com",
+    "name": "Falu AG, Rüti / ZH"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://www.ferrum.net",
+    "name": "Ferrum AG, Rupperswil / AG"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://www.indosa-ag.com",
+    "name": "Grabher Indosa-Maschinenbau AG, Au / SG"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://www.iverslee.com",
+    "name": "Ivers-Lee AG, Burgdorf / BE"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://www.rlc-packaging.com",
+    "name": "Limmatdruck Zeiler AG, Köniz / BE"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://www.maroplastic.ch",
+    "name": "Maroplastic AG, Reitnau / AG"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://www.packsysglobal.com",
+    "name": "PackSys Global AG, Rüti / ZH"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://www.polytype.com",
+    "name": "Polytype S.A., Fribourg / FR"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://www.rohrerag.com",
+    "name": "Rohrer AG, Möhlin / AG"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://www.rychiger.com",
+    "name": "Rychiger AG, Steffisburg / BE"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://www.sapal.ch",
+    "name": "Sapal SA, Ecublens / VD"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://www.soudronic.com",
+    "name": "Soudronic AG, Bergdietikon / AG"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://www.canmachinery.com",
+    "name": "Swiss Can Machinery AG, Berneck / SG"
+  },
+  {
+    "category": "Verpackungstechnik",
+    "url": "http://www.zellwag.com",
+    "name": "Zellwag Pharmtech AG, Frauenfeld / TG"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.agathon.com",
+    "name": "AGATHON AG, Maschinenfabrik, Bellach / SO"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.amiet-ag.ch",
+    "name": "Amiet AG, Präzisionswerkzeugbau, Herisau / AR"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.bloesch.ch",
+    "name": "Blösch AG Hartstoffbeschichtungszentrum, Grenchen / SO"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.bohrbuechsen.ch",
+    "name": "Bohrbüchsen A.G., Heimberg / BE"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.brsflawil.ch",
+    "name": "Büchler Reinli + Spitzli AG, Flawil / SG"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.erowa.com",
+    "name": "Erowa AG, Reinach / AG"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.etampa.ch",
+    "name": "Etampa AG, Grenchen / SO"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.feinstanz.ch",
+    "name": "Feinstanz AG, Werkzeug- und Feinstanztechnik, Rapperswil-Jona / SG"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.feintool.com",
+    "name": "Feintool Technologie AG, Lyss / BE"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.fostag.com",
+    "name": "Fostag Formenbau AG, Stein am Rhein / SH"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.fribosa.com",
+    "name": "Fribosa AG, Murten-Morat / FR"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.gebrbraem.ch",
+    "name": "Gebr. Bräm AG Päzisionswerkzeugbau, Dietikon / ZH"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.glaroform.ch",
+    "name": "Glaroform AG, Näfels / GL"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.gressel.ch",
+    "name": "GRESSEL AG, Aadorf / TG"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.hydrel.ch",
+    "name": "Hydrel AG, Romanshorn / TG"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.iepco.ch",
+    "name": "Iepco AG, Höri / ZH"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.jehleag.ch",
+    "name": "Jehle Werkzeug- + Formenbau AG, Etzgen / AG"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.katz.ch",
+    "name": "KATZ Kunststoff Ausbildungs- und Technologie-Zentrum, Aarau / AG"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.landtwing.com",
+    "name": "Landtwing Werkzeugbau AG, Zug / ZG"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.make-ag.ch",
+    "name": "Make AG, Heimberg / BE"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.meylanfreres.ch",
+    "name": "Meylan Frères SA, Le Brassus / VD"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.system3r.ch",
+    "name": "Mikron Agie Charmilles AG, TU System 3R, Flawil / SG"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.mould2part.ch",
+    "name": "mould2part GmbH, Trogen / AR"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.oerlikon.com",
+    "name": "Oerlikon Balzers Coating AG, Balzers / FL"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.oskar-ruegg.ch",
+    "name": "Oskar Rüegg AG, Rapperswil-Jona / SG"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.otto-hofstetter.ch",
+    "name": "Otto Hofstetter AG, Uznach / SG"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.pfwag.ch",
+    "name": "Pfister Werkzeugbau AG, Mönchaltorf / ZH"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.profin.ch",
+    "name": "PROFIN Progressive Finish AG, Luzern / LU"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.schoettli.com",
+    "name": "Schöttli AG, Diessenhofen / TG"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.sulzer.com",
+    "name": "Sulzer Mixpac AG, Sennwald / SG"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.tanner-formenbau.ch",
+    "name": "Tanner Formenbau AG, Feuerthalen / ZH"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.veralit.ch",
+    "name": "Veralit AG, Schlieren / ZH"
+  },
+  {
+    "category": "Werkzeug- und Formenbau",
+    "url": "http://www.wintool.com",
+    "name": "WinTool AG, Zürich / ZH"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.affoltergroup.ch",
+    "name": "Affolter Technologies S.A., Valbirse / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.agathon.com",
+    "name": "AGATHON AG, Maschinenfabrik, Bellach / SO"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.baltec.com",
+    "name": "Baltec Maschinenbau AG, Pfäffikon / ZH"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.bodmer-taumel.ch",
+    "name": "Bodmer Küsnacht AG, Küsnacht / ZH"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.bystronic.com",
+    "name": "Bystronic Laser AG, Niederönz / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.coherent.ch",
+    "name": "COHERENT Switzerland AG, Belp / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.EundA.ch",
+    "name": "e+a Elektromaschinen und Antriebe AG, Möhlin / AG"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.bruderer.com",
+    "name": "E. Bruderer Maschinenfabrik AG, Arbon / TG"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.eckold.ch",
+    "name": "Eckold AG, Trimmis / GR"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.emissa.com",
+    "name": "Emissa SA, Le Locle / NE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.ernst-grob.com",
+    "name": "Ernst Grob AG, Männedorf / ZH"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.efcooling.com",
+    "name": "Ernst H. Furrer AG Industriekühlanlagen, Dällikon / ZH"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.erowa.com",
+    "name": "Erowa AG, Büron / LU"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.escomatic.ch",
+    "name": "Esco S.A. Fabrique de machines, Geneveys-Coffrane / NE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.iwf.mavt.ethz.ch",
+    "name": "ETH Zürich IWF, Zürich ETH-Zentrum / ZH"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.ewag.com",
+    "name": "Ewag AG, Etziken / SO"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.fanuc.eu",
+    "name": "FANUC SWITZERLAND GMBH, Biel / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.fehlmann.com",
+    "name": "Fehlmann AG, Seon / AG"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.feintool.com",
+    "name": "Feintool Technologie AG, Lyss / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.fischerspindle.com",
+    "name": "Fischer AG Präzisionsspindeln, Herzogenbuchsee / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.fleurysa.ch",
+    "name": "Fleury SA, Biel / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.fribosa.com",
+    "name": "Fribosa AG, Murten-Morat / FR"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.studer.com",
+    "name": "Fritz Studer AG, Steffisburg / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.studer.com",
+    "name": "Fritz Studer AG, Steffisburg / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.gfms.com",
+    "name": "GF Machining Solutions Management SA, Satigny / GE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.hatebur.com",
+    "name": "Hatebur Umformmaschinen AG, Reinach / BL"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.heidenhain.ch",
+    "name": "Heidenhain (Schweiz) AG, Schwerzenbach / ZH"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.ibag.ch",
+    "name": "IBAG Switzerland AG, Kloten / ZH"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.imoberdorf.com",
+    "name": "Imoberdorf AG, Oensingen / SO"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.schneeberger.ch",
+    "name": "J. Schneeberger Maschinen AG, Roggwil / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.pfiffner.com",
+    "name": "K.R. Pfiffner AG, Utzenstorf / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.klingelnberg.com",
+    "name": "Klingelnberg AG, Zürich / ZH"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.kummer-precision.ch",
+    "name": "Kummer Frères S.A., Fabrique de machines, Tramelan / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.kellenberger.com",
+    "name": "L. Kellenberger & Co. AG, St. Gallen / SG"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.landert.com",
+    "name": "Landert Motoren AG, Bülach / ZH"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.liechti.com",
+    "name": "Liechti Engineering AG, Langnau im Emmental / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.lns-world.com",
+    "name": "LNS SA, Orvin / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.maegerle.com",
+    "name": "Mägerle AG Maschinenfabrik, Fehraltdorf / ZH"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.meyerburger.com",
+    "name": "Meyer Burger (Switzerland) AG, Thun / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.meyrat.com",
+    "name": "Meyrat SA, Biel / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.microcut.ch",
+    "name": "Microcut AG, Lengnau BE / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.gfms.com/ch",
+    "name": "Mikron Agie Charmilles AG, Nidau / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.mikron.com",
+    "name": "Mikron SA Agno, Agno / TI"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.monnier-zahner.ch",
+    "name": "Monnier & Zahner AG, Safnern / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.nobag.com",
+    "name": "NOBAG Nobs Engineering AG, Uetendorf / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.num.com",
+    "name": "NUM AG, Teufen / AR"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.oerlikon.com/metco",
+    "name": "Oerlikon Metco AG, Wohlen / AG"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.oetiker.com",
+    "name": "Oetiker Schweiz AG Maschinen- und Apparatefabrik, Horgen / ZH"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.lehmann-rotary-tables.com",
+    "name": "Peter Lehmann AG, Langnau im Emmental / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.pibomulti.com",
+    "name": "Pibomulti S.A., Le Locle / NE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.posalux.ch",
+    "name": "Posalux SA, Bienne / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.precitrame.com",
+    "name": "Precitrame Machines SA, Tramelan / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.reiden.com",
+    "name": "Reiden Technik AG, Reiden / LU"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.reishauer.com",
+    "name": "Reishauer AG, Wallisellen / ZH"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.gerber-maschinen.ch",
+    "name": "René Gerber AG, Lyss / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.safed.ch",
+    "name": "SAFED Suisse SA, Delémont / JU"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.sauterbachmann.ch",
+    "name": "Sauter, Bachmann AG, Netstal / GL"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.schaeffler.ch",
+    "name": "Schaeffler Schweiz GmbH, Romanshorn / TG"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.smsa.ch",
+    "name": "Schaublin Machines SA, Valbirse / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.schneeberger.com",
+    "name": "SCHNEEBERGER AG Lineartechnik, Roggwil / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.seckler.ch",
+    "name": "SECKLER AG, Pieterlen / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.siemens.ch",
+    "name": "Siemens Schweiz AG, Zürich / ZH"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.stahli.com",
+    "name": "Stähli Läpp Technik AG, Pieterlen / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.starrag.com",
+    "name": "Starrag AG, Rorschacherberg / SG"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.starrag.com",
+    "name": "Starrag Vuadens SA / FR"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.step-tec.com",
+    "name": "Step-Tec AG, Luterbach / SO"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.suhner.com",
+    "name": "Suhner Holding AG, Lupfig / AG"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.swisschuck.com",
+    "name": "SwissChuck AG, Illnau-Effretikon / ZH"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.synova.ch",
+    "name": "Synova S.A., Duillier / VD"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.tornos.com",
+    "name": "TORNOS S.A., Moutier / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.tornos.com",
+    "name": "TORNOS S.A., Moutier / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.trumpf.com",
+    "name": "TRUMPF Schweiz AG, Grüsch / GR"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.tschudin.eu",
+    "name": "TSCHUDIN AG, Grenchen / SO"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.ttb-eng.com",
+    "name": "TTB Engineering SA, Riva San Vitale / TI"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.turbo-separator.ch",
+    "name": "Turbo-Separator AG, Wattwil / SG"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.grinding.ch",
+    "name": "United Grinding Group Management AG, Bern / BE"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.willemin-macodel.com",
+    "name": "Willemin-Macodel SA, Delémont / JU"
+  },
+  {
+    "category": "Werkzeugmaschinen und Fertigungstechnik",
+    "url": "http://www.wintool.com",
+    "name": "WinTool AG, Zürich / ZH"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.3dprecision.ch",
+    "name": "3D PRECISION SA, Delémont / JU"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.angenstein.ch",
+    "name": "Angenstein ESTECH AG, Aesch / BL"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.ehrat-ag.ch",
+    "name": "Arnold Ehrat AG, Wädenswil / ZH"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.band.ch",
+    "name": "Band-Genossenschaft, Bern / BE"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.benningerguss.ch",
+    "name": "BENNINGER GUSS AG, Uzwil / SG"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.buechiag.ch",
+    "name": "Büchi AG, Metallwarenfabrik, Wil / SG"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.cantin.ch",
+    "name": "Cantin SA, Domdidier/ FR"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.concable.ch",
+    "name": "Concable AG, Kehrsatz / BE"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.construtec.ch",
+    "name": "Construtec AG, Cham / ZG"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.durrer.com",
+    "name": "Durrer Spezialmaschinen AG, Küssnacht am Rigi / SZ"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.eckold.ch",
+    "name": "Eckold AG, Trimmis / GR"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.estech.ch",
+    "name": "FAES-PWR ESTECH AG / Rüti ZH"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.firstindustries.ch",
+    "name": "First Industries services Sàrl, Crissier / VD"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.fischer-reinach.ch",
+    "name": "Fischer Reinach AG, Reinach / AG"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.hegi.ch",
+    "name": "Giesserei Hegi AG, Oberburg / BE"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.gerster.ch",
+    "name": "Härterei Gerster AG, Egerkingen / SO"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.inspire.ethz.ch",
+    "name": "Inspire AG, Zürich / ZH"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.jakobag.ch",
+    "name": "Jakob AG Blechbearbeitung, Apparate- und Metallbau, Roggwil / TG"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.metalyss.ch",
+    "name": "Metalyss AG, Lyss / BE"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.okey.ch",
+    "name": "Okey AG, Zürich / ZH"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.rapid.ch",
+    "name": "Rapid Technic AG, Killwangen / AG"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.rewag.ch",
+    "name": "REWaG Feinmechanik AG, Waldkirch / SG"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.sauterbachmann.ch",
+    "name": "Sauter, Bachmann AG, Netstal / GL"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.sedax.ch",
+    "name": "Sedax AG, Uster  / ZH"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.stoppani.com",
+    "name": "Stoppani AG, Neuenegg / BE"
+  },
+  {
+    "category": "Zulieferer ZMIS",
+    "url": "http://www.wolfensberger.ch",
+    "name": "Wolfensberger AG, Bauma / ZH"
+  }
+]
